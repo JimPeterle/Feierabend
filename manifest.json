@@ -1,0 +1,9 @@
+{
+  "id": "feierabend",
+  "name": "Feierabend",
+  "version": "1.0.0",
+  "minAppVersion": "1.1.0",
+  "description": "Moves completed tasks to an archive note with one click or automatically at a set time.",
+  "author": "JimPeterle",
+  "isDesktopOnly": false
+}
